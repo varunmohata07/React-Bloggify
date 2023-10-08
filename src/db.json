@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Office Party",
+      "body": "First office part at Spice Factory",
+      "author": "Varun",
+      "id": 2
+    }
+  ]
+}
